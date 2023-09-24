@@ -1,0 +1,25 @@
+.title {
+    color: #fff;
+    line-height: 1.6rem;
+    letter-spacing: 2px;
+    text-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #003147;
+    padding: 4px;
+}
+
+.link {
+    display: inline-block;
+    width: 100%;
+    font-size: 1.25rem;
+    text-align: left;
+    line-height: 1.6rem;
+    transition: .225s;
+    color: #abc;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: #03a9f4;
+}

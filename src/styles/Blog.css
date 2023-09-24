@@ -1,0 +1,42 @@
+
+article {
+    text-align: left;
+    overflow-wrap: break-word;
+    letter-spacing: 1px;
+}
+
+article .post-content{
+    margin: 20px 0;
+}
+
+article .title {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #f8f8f8;
+  background-color: #003147;;
+  padding: 4px;
+}
+
+article .date,
+article .post,
+article .link {
+  margin: 2px 10px;
+}
+
+article .date {
+  color: #03a9f4;
+  padding: 0;
+}
+
+article .post {
+  line-height: 1.6rem;
+}
+
+hr {
+  border: 0;
+  clear: both;
+  display: block;
+  width: 96%;
+  background-color: #ccc;
+  height: 2px;
+}
